@@ -1,0 +1,6 @@
+
+$bgColor:#f2f2f2;
+[nav-view-transition=ios][nav-view-direction=forward], [nav-view-transition=ios][nav-view-direction=back]{
+  background: $bgColor;
+}
+
