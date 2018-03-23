@@ -32,7 +32,7 @@
     "sass-loader": "^6.0.6"
   },
   "dependencies": {
-    "angular": "1.6.x",
+    "angular": "1.4.3",
     "angular-cache": "^4.5.0",
     "angular-cookies": "1.4.12",
     "angular-ui-router": "^0.3.2",
